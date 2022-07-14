@@ -8,6 +8,7 @@ module.exports = {
     extend: {
       colors: {
         twitter: "#00ADED",
+        subTwitter: "#ECFF00"
       }
     },
   },
